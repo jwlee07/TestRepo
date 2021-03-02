@@ -11,6 +11,8 @@ class ViewController: UIViewController {
     
     let minhee = "great"
 
+    let doyoung = "great"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
@@ -20,9 +22,6 @@ class ViewController: UIViewController {
         let x = "x"
         let code = "code"
         return x + code
-        
     }
-
-
 }
 
