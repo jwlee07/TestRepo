@@ -8,10 +8,19 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let minhee = "great"
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+    }
+    
+    func learn() -> String {
+        let x = "x"
+        let code = "code"
+        return x + code
+        
     }
 
 
