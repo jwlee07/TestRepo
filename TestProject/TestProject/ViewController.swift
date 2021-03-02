@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let minhee = "great"
 
     let doyoung = "great"
     
